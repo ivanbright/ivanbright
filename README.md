@@ -1,14 +1,17 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d3436,100:000000&height=300&section=header&text=Hi%20there,%20I'm%20[Your%20Name]&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20Creator%20%7C%20Innovator&descAlignY=55&descSize=20&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d3436,100:000000&height=300&section=header&text=Hi%20there,%20I'm%20Ivan%20Mugisha%20Bright&fontSize=45&fontAlignY=35&desc=Student%20%40%20Rwanda%20Coding%20Academy%20%7C%20Developer%20%7C%20Deep%20Thinker&descAlignY=55&descSize=20&fontColor=ffffff" width="100%" />
 </div>
 
 <br/>
 
 <!-- Introduction -->
 <div align="center">
-  <h3> Building products that investors love and users need. </h3>
-  <p> I am a passionate developer focused on creating scalable, high-performance, and visually stunning applications (like SaintStream). I blend technical excellence with premium design aesthetics to deliver exceptional user experiences. </p>
+  <h3> Building with authenticity, listening deeply, and growing every day. </h3>
+  <p> 
+    I’m a student at <b>Rwanda Coding Academy</b> who enjoys building things with technology and understanding how they work. What stands out about me is my journey—I didn’t begin with confidence or strong communication skills, I had to grow into them. I’m naturally quiet, which has taught me the power of <i>listening, observing, and thinking deeply</i>. <br><br>
+    I value honesty above all because truth is the only thing that always wins. I would rather be real about what I know and don't know than pretend. I’m still learning, but my goal is to turn every challenge into growth that eventually helps others.
+  </p>
 </div>
 
 <br/>
@@ -18,10 +21,10 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ivanbright&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=radium&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanbright&theme=radium&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -46,12 +49,12 @@
   <tr>
     <td width="50%" align="center" style="border: none;">
       <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_1]&theme=radium&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanbright&repo=[REPO_1]&theme=radium&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
       </a>
     </td>
     <td width="50%" align="center" style="border: none;">
       <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_2]&theme=radium&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanbright&repo=[REPO_2]&theme=radium&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
       </a>
     </td>
   </tr>
